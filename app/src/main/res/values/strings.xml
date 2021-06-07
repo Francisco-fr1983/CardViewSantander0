@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="r_1_599_00">R$1.599,00</string>
+    <string name="ol_francisco">Olá, Francisco.</string>
+    <string name="ag_4166">Ag 4166</string>
+    <string name="conta_001834_0">Conta 001834-0</string>
+    <string name="saldo_disponivel">Saldo Disponivel</string>
+    <string name="saldo_limite">Saldo + Limite:</string>
+    <string name="r_2_324_64">R$ 2.324,64.</string>
+    <string name="ver_extrato">VER EXTRATO</string>
+    <string name="pagamentos">Pagamentos</string>
+    <string name="todo">TODO</string>
+    <string name="menu_1">HOME</string>
+    <string name="menu_2">EXTRATO</string>
+    <string name="menu_3">Menu_3</string>
+    <string name="cart_o_final_033">Cartão Final 0033</string>
+    <string name="pagar">PAGAR</string>
+    <string name="transferir">TRANSFERIR</string>
+
+</resources>

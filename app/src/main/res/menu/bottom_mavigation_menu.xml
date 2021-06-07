@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/home"
+        android:title="INICIAR" />
+    <item android:id="@+id/pagar"
+        android:enabled="true"
+        android:icon="@drawable/ic_credit_card_black_24dp"
+        android:title="PAGAMENTOS" />
+    <item android:id="@+id/transferir"
+        android:enabled="true"
+        android:icon="@drawable/transferencia"
+        android:title="TRANSFERÊNCIAS" />
+    <item android:id="@+id/recarga"
+        android:enabled="true"
+        android:icon="@drawable/ic_phone_iphone_black_24dp"
+        android:title="RECARGAS" />
+    <item android:id="@+id/menu"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_black_24dp"
+        android:title="MENU" />
+
+
+</menu>
