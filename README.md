@@ -1,8 +1,8 @@
 # CardViewSantander0
  CardViewSantander0
  
- ![CARDVIEWSANTANDER -> Video da home funcionando.](https://drive.google.com/file/d/1gIYUbEDHkxTdCA9Jr_wNobmVzAdKimjL/view?usp=sharing)Welcome to the CardViewSantander0!
- 
+![CARDVIEWSANTANDER -> Video da home funcionando.]( https://drive.google.com/file/d/1gIYUbEDHkxTdCA9Jr_wNobmVzAdKimjL/view)Welcome to the CardViewSantander0! 
+
  CARDVIEWSANTANDER
  
 ![image](https://user-images.githubusercontent.com/79156176/121102054-67e4b200-c7d3-11eb-85fa-a52049cd08dd.png)
