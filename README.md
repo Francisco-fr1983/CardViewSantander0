@@ -1,7 +1,7 @@
 # CardViewSantander0
  CardViewSantander0
- 
-![CARDVIEWSANTANDER -> Video da home funcionando.]( https://drive.google.com/file/d/1gIYUbEDHkxTdCA9Jr_wNobmVzAdKimjL/view)Welcome to the CardViewSantander0! 
+
+[CARDVIEWSANTANDER -> Video da home funcionando.](https://drive.google.com/file/d/1gIYUbEDHkxTdCA9Jr_wNobmVzAdKimjL/view?usp=sharing)Welcome to the CardViewSantander0 wiki!
 
  CARDVIEWSANTANDER
  
